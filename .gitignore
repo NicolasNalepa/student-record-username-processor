@@ -1,0 +1,5 @@
+*.o
+student_processor
+.DS_Store
+students_username.csv
+students_usernames.csv
